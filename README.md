@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hi, I'm Jacob
 
-<!--
-**jcstill/jcstill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Saddleback Community College in the computer engineering and cyber security programs.
 
-Here are some ideas to get you started:
+I have been interested in computers and electronics since I was very young and have been tinkering ever since. I have a large collection of completed, ongoing, and abandoned projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![jcstill](https://github-readme-stats.vercel.app/api/?username=jcstill&count_private=true&show_icons=true)](https://github.com/jcstill)
+
+---
+
+My Languages:
+
+![dbpbe](https://github-readme-stats.vercel.app/api/top-langs/?username=jcstill&layout=compact&hide_title=true)
+
+---
+
+🔭 I’m currently working on [dbpbe](https://dbpbe.com):
+
+[![dbpbe](https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=dbpbe)](https://github.com/jcstill/DBPBE)
+
+Some other repos I have:
+
+<a href="https://github.com/jcstill/diytil311">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=diytil311"/>
+</a>
+<a href="https://github.com/jcstill/containers">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=containers"/>
+</a>
+<a href="https://github.com/jcstill/scripts">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=scripts"/>
+</a>
+<a href="https://github.com/jcstill/py-todo-ext">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=py-todo-ext"/>
+</a>
+<a href="https://github.com/Saddleback-College-Cyber-Security/incident-response">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Saddleback-College-Cyber-Security&repo=incident-response"/>
+</a>
+<a href="https://github.com/jcstill/covermyass">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=covermyass"/>
+</a>
