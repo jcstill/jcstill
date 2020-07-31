@@ -17,24 +17,3 @@ My Languages:
 🔭 I’m currently working on [dbpbe](https://dbpbe.com):
 
 [![dbpbe](https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=dbpbe)](https://github.com/jcstill/DBPBE)
-
-Some other repos I have:
-
-<a href="https://github.com/jcstill/diytil311">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=diytil311"/>
-</a>
-<a href="https://github.com/jcstill/containers">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=containers"/>
-</a>
-<a href="https://github.com/jcstill/scripts">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=scripts"/>
-</a>
-<a href="https://github.com/jcstill/py-todo-ext">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=py-todo-ext"/>
-</a>
-<a href="https://github.com/Saddleback-College-Cyber-Security/incident-response">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Saddleback-College-Cyber-Security&repo=incident-response"/>
-</a>
-<a href="https://github.com/jcstill/covermyass">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=covermyass"/>
-</a>
