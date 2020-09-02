@@ -5,9 +5,12 @@ I am a student at Saddleback Community College in the computer engineering and c
 I have been interested in computers and electronics since I was very young and have been tinkering ever since. I have a large collection of completed, ongoing, and abandoned projects.
 
 Contact me:
-[<img height="24px" src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/128/Gmail-icon.png"/> ](mailto:jacobcstill@gmail.com "jacobcstill@gmail.com")
-[<img height="24px" src="https://protonmail.com/images/media/logos/protonmail-sign-purple.png"/> ](mailto:jacobcstill@protonmail.com "jacobcstill@protonmail.com")
-[<img height="24px" src="https://www.redditinc.com/assets/images/site/reddit-logo.png"/>](https://www.reddit.com/user/jcstill "u/jcstill")
+<br>
+<img height="25px" src="./gmail.png"/>
+<br>
+<img height="25px" src="./protonmail.png"/>
+<!-- <br> -->
+<!-- <img height="25px" src="reddit.png"/> -->
 
 
 [![jcstill](https://github-readme-stats.vercel.app/api/?username=jcstill&count_private=true&show_icons=true)](https://github.com/jcstill)
