@@ -6,11 +6,11 @@ I have been interested in computers and electronics since I was very young and h
 
 Contact me:
 <br>
-<img height="17px" src="https://jcstill.com/gmail.png"/>
+<img height="17px" src="https://jcstill.com/images/gmail.png"/>
 <br>
-<img height="17px" src="https://jcstill.com/protonmail.png"/>
+<img height="17px" src="https://jcstill.com/images/protonmail.png"/>
 <!-- <br>
-<img height="17px" src="https://jcstill.com/reddit.png"/> -->
+<img height="17px" src="https://jcstill.com/images/reddit.png"/> -->
 
 
 [![jcstill](https://github-readme-stats.vercel.app/api/?username=jcstill&count_private=true&show_icons=true)](https://github.com/jcstill)
