@@ -9,8 +9,6 @@ Contact me:
 <img height="17px" src="https://jcstill.com/images/gmail.png"/>
 <br>
 <img height="17px" src="https://jcstill.com/images/protonmail.png"/>
-<!-- <br>
-<img height="17px" src="https://jcstill.com/images/reddit.png"/> -->
 
 
 [![jcstill](https://github-readme-stats.vercel.app/api/?username=jcstill&count_private=true&show_icons=true)](https://github.com/jcstill)
@@ -23,8 +21,8 @@ Contact me:
 
 ---
 
-<img height="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/telescope_1f52d.png"/> I’m currently working on [dbpbe](https://dbpbe.com):
+<img height="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/telescope_1f52d.png"/> I’m currently working on my own encryption algorithm [dbpbe](https://dbpbe.com).
 
-[![dbpbe](https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=dbpbe)](https://github.com/jcstill/DBPBE)
+[Comment]: [![dbpbe](https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=dbpbe)](https://github.com/jcstill/DBPBE)
 
 
