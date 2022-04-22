@@ -21,7 +21,7 @@ Contact me:
 
 ---
 
-<img height="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/telescope_1f52d.png"/> I’m currently working on my own encryption algorithm [dbpbe](https://dbpbe.com).
+<img height="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/241/telescope_1f52d.png"/> I wrote my own encryption algorithm [dbpbe](https://dbpbe.com) - not that it is any good.
 
 [Comment]: [![dbpbe](https://github-readme-stats.vercel.app/api/pin/?username=jcstill&repo=dbpbe)](https://github.com/jcstill/DBPBE)
 
